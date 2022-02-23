@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties letter to the Lord Willoughby of Parham, Iune the fourth, with his lordships answer thereunto together with a letter sent by the Lord Willoughby to an honourable member of the Parliament : read at a conference between both Houses this eighth of Iune, 1642.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31960</idno>
+            <idno type="STC">Wing C2409</idno>
+            <idno type="STC">ESTC R10981</idno>
+            <idno type="EEBO-CITATION">13115300</idno>
+            <idno type="OCLC">ocm 13115300</idno>
+            <idno type="VID">97743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97743)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 411:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties letter to the Lord Willoughby of Parham, Iune the fourth, with his lordships answer thereunto together with a letter sent by the Lord Willoughby to an honourable member of the Parliament : read at a conference between both Houses this eighth of Iune, 1642.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+               </titleStmt>
+               <extent>[2], 5-6, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97743:1"/>
+            <pb facs="tcp:97743:1" rendition="simple:additions"/>
+            <p>THE KINGS MAJESTIES Letter to the Lord Willoughby, of PARHAM, <hi>Iune</hi> the fourth, with his Lordſhips anſwer thereunto.</p>
+            <p>Together with a Letter ſent by the Lord <hi>WILLOVGHBY,</hi> to an Honourable Member of the Parliament.</p>
+            <p>Read at a Conference between both Houſes this eighth of <hi>Iune,</hi> 1642.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. N.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97743:2" rendition="simple:additions"/>
+            <pb n="5" facs="tcp:97743:2" rendition="simple:additions"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Received a Letter from your Lordſhip, in which the Houſe is pleaſed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oe mee a very great honour, farre above any deſert of mine, and little expected by me; for my Lord, I well know my obedience tyes me to fulfill their Comm nds, and in th t I have done, I have but done my duty, and that which eve<g ref="char:EOLhyphen"/>ry honeſt man ought to do, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h of right to the Par<g ref="char:EOLhyphen"/>liament; and whoſoever hath that principle in him, it will dictate to him as much, and keepe him from other by<g ref="char:EOLhyphen"/>wayes, and for my owne part, my heart ever was, and ever ſhall be, both forward and ready to obey their Lordſhips commands in all things, both with integritie and induſtry, and Gods curſe light upon him and his, that carryes any other heart about him; My Lord, it is too meane a way for me to expreſſe my acknowledgement in p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>per, to the Houſe for this high favour which I have re<g ref="char:EOLhyphen"/>ceived by your Lordſhips Letter. I hope to make it ap<g ref="char:EOLhyphen"/>peare by my actions that their Lordſhips ſee, I am not an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngratefull ſervant. It is a great encouragement to theſe parts, their Lordſhips reſolutions, in giving their Com<g ref="char:EOLhyphen"/>mands to have the reſt of the Militia put in preſent exe<g ref="char:EOLhyphen"/>cution, and truly my Lord it was out of that regard that I did intimate it to my Lord of <hi>Eſſex,</hi> as holding it a thing much conducing to the publick good, and the only remedy to cure theſe diſtractions which the Kingdome is in, not out of any regard to my ſelfe, for I know if I
+<pb n="6" facs="tcp:97743:3"/>ſuffer in executing their Lordſhips commands, it muſt be againſt their wills, and when that day comes, I will not give a ſtraw for all I have, were I but a looker on. My Lord, as I was this day at <hi>Lincolne,</hi> where I appointed to begin to Muſter, there came a Meſſenger from his Maje<g ref="char:EOLhyphen"/>ſtie with this Letter, which I held it my duty to acquaint the Houſe with, and likewiſe my anſwer, and am for <hi>Lin<g ref="char:EOLhyphen"/>colne,</hi> where as in all other places, I ſhall be ready to ſerve your Lordſhip.</p>
+                  <closer>
+                     <signed>
+                        <hi>As your moſt humble ſervant.</hi> T. WILLOVGHBY.</signed>
+
+                     <date>
+                        <hi>Lincolne 6. Iune.</hi> 1642.</date>
+                  </closer>
+                  <postscript>
+                     <p>MY Lord, ere my letter was ſealed up, I could not but giue your Lordſhip an accompt in how good a poſture I found the Trained Band of <hi>Lin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>olne,</hi> which was farre beyond my expectation, conſidering the unhap<g ref="char:EOLhyphen"/>pineſſe in the ſickneſſe being diſperſed in the Town, which hindred the appearance of ſome, but truly my Lord that was fully ſupplied by a company of Voluntiers, equall in number and goodneſſe of Armes to the Trained Bands.</p>
+                  </postscript>
+                  <trailer>FINIS.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="1" facs="tcp:97743:3"/>
+                  <head>
+                     <hi>CAROLUS REX.</hi> To our truſty and wel-beloved, the <hi>Vice-Chancellour</hi> of the Vniverſitie of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and to all the reſt of our loyall Subjects in that our Vniverſity.</head>
+                  <opener>
+                     <salute>Reverend Father in God, we greet you well,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hereas we have received a moſt large and ample teſtimony of the Affection of that our Loyall vniver<g ref="char:EOLhyphen"/>ſity to us, by the free loane of a very conſiderable Summe of mony, in a time of ſo great and Imminent neceſſity. Theſe are to will and require you to give to that our Vni<g ref="char:EOLhyphen"/>verſity from us, our Royall thanks, and to aſſure them, and every of them, (our Loving
+<pb n="2" facs="tcp:97743:4"/>and Loyall Subjects) that this Teſtimony of their hearts towards us, ſhall never depart out of our Royall memory, and that both they ſhall be carefully repayd, and the mony em<g ref="char:EOLhyphen"/>ployed only upon the defence of our ſelfe. The true Proteſtant Religion, and the Laws eſta<g ref="char:EOLhyphen"/>bliſhed in this our Kingdom, and whereas wee heare, that for this Action, ſo full of loy<g ref="char:EOLhyphen"/>alty and Allegiance, Som of that our Vniverſity have beene ordered to be ſent for, theſe are to will and require you, to ſignifie unto them and every of them, (who aſſume ſuch Power to themſelves without us) That wee will and command, that no obedience be given to any ſuch ſummons, holding our ſelfe bound to pro<g ref="char:EOLhyphen"/>tect and defend thoſe, who ſhall be perſecuted for that cauſe, by having contributed to our de<g ref="char:EOLhyphen"/>fence and protection, And ſo wee bid you farewell.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given at our Court at</hi> Beverly <date>
+                           <hi>the</hi> 18. <hi>day of Iuly</hi> 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="3" facs="tcp:97743:4"/>
+                  <head>
+                     <hi>CHARLES</hi> R. To our truſty and well beloved the High Sheriff of our County, and the Major of our Citie of OXFORD.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg> Ruſty and welbeloved, Wee greet you well, whereas Wee have lately received very am<g ref="char:EOLhyphen"/>ple teſtimonies of the good affections of our Vniverſity of <hi>Oxon,</hi> by the loan of ſuch Moneys as could be thence ſpared for the ſup<g ref="char:EOLhyphen"/>ply of Our urgent and extraordinary occaſions, For which dutiful and affectionate expreſſion, We are informed, that ſeverall worthy perſons of that our Vniverſity, our Servants and others are threatned to be troubled and moleſted, Wee
+<pb n="4" facs="tcp:97743:5"/>have thought fit to commend the care, aſſi<g ref="char:EOLhyphen"/>ſtance and protection of that place and of the perſons in it, to you as a ſervice, wherin you ſhall merit our favour and good acceptance and of which we ſhall require an account And wee doe therefore will and require you as you tender our diſpleaſure, if any warrant, order, or other direction whatſoever ſhall come to your hand for the apprehending or troubling any perſon or perſons of that our Vniverſity for his good affection to our ſervice in advancing the buſineſſe of lending and ſupplying us with mony which wee ſhall never forget, that you be ſo farre from countenancing or aſſiſting a<g ref="char:EOLhyphen"/>ny ſuch warrant or direction, that on the con<g ref="char:EOLhyphen"/>trary you uſe your utmoſt power to preſerve thoſe our good ſubjects from ſuch oppreſſion, the which we ſhall take in very good part at your hand, and for ſo doing this ſhall be your warrant.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given at our Court at</hi> Nottingham, <date>
+                           <hi>Iuly</hi> 22. 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97743:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
